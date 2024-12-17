@@ -7,6 +7,7 @@ I enjoy building software that is both functional and fun, while constantly expa
 
 # I'm currently working on ⚡
 - Building solutions with SQL and optimizing database queries.
+- Finishing my Clans minecraft plugin which includes ranks, quests, colors, placeholders, configurable messages, clan settings, clan chat & alot more features! (1.20+)
 
 
 

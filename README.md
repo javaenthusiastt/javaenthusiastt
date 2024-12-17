@@ -1,4 +1,4 @@
-# About Me 👋
+# About
 
 
 I'm a developer from Norway with a passion for creating and learning new things. I specialize in Java (4+ years of experience), and I also work with SQL development, Python, and abit of HTML. My journey has been full of learning opportunities, collaborating with amazing people, and tackling interesting challenges.

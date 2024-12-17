@@ -5,7 +5,7 @@ I'm a developer from Norway with a passion for creating and learning new things.
 
 I enjoy building software that is both functional and fun, while constantly expanding my knowledge in backend and full-stack development. Whether it's coding, debugging, or crying for solutions, I always want improvement and efficiency.
 
-- I'm currently working on ⚡
+# I'm currently working on ⚡
 - Building solutions with SQL and optimizing database queries.
 
 

@@ -1,5 +1,7 @@
 ## Hi there 👋
-# I'm from Norway, currently learning and experiencing java & proxy, sql development. Been doing Java for about 4 years now on and off, and has learnt alot of interesting and fun things while creating new friends and working with super nice people!
+
+
+I'm from Norway, currently learning and experiencing java & proxy, sql development. Been doing Java for about 4 years now on and off, and has learnt alot of interesting and fun things while creating new friends and working with super nice people!
 
 
 <!--

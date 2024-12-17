@@ -20,7 +20,7 @@ I tend to keep most of my code private due to most my work being private or boug
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/384044876259393559)](https://discord.com)
 
-![GitHub Snake](https://raw.githubusercontent.com/LightningReflex/LightningReflex/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY0MHNndDJwZGQ4bmIxcnZ4aWY2cXNpZjRwZzB0aHVwOGlkMzd2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkUtjuBEdICST5zG7p/giphy.webp)
 
 
 

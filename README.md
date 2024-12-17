@@ -14,6 +14,8 @@ I tend to keep most of my code private due to most my work being private or boug
 - Mail: contactsorrypls@gmail.com
 - Discord: l.x60
 
+🌟 "Feel free to reach out! I'm always excited to collaborate, create cool projects, and learn something new along the way." 🌟
+
 
 
 <!--

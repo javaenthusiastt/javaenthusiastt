@@ -1,13 +1,18 @@
-## About Me 👋
+# About Me 👋
 
 
 I'm a developer from Norway with a passion for creating and learning new things. I specialize in Java (4+ years of experience), and I also work with SQL development, Python, and HTML. My journey has been full of learning opportunities, collaborating with amazing people, and tackling interesting challenges.
 
 I enjoy building software that is both functional and fun, while constantly expanding my knowledge in backend and full-stack development. Whether it's coding, debugging, or crying for solutions, I always want improvement and efficiency.
 
-# I'm currently working on ⚡
+## I'm currently working on ⚡
 - Building solutions with SQL and optimizing database queries.
 - Finishing my Clans minecraft plugin which includes ranks, quests, colors, placeholders, configurable messages, clan settings, clan chat & alot more features! (1.20+)
+
+
+I tend to keep most of my code private due to most my work being private or bought, but if you are interested in seeing source code for a feature made by me then contact me at 💬
+- Mail: contactsorrypls@gmail.com
+- Discord: l.x60
 
 
 

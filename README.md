@@ -16,6 +16,8 @@ I tend to keep most of my code private due to most my work being private or boug
 
 🌟 "Feel free to reach out! I'm always excited to collaborate, create cool projects, and learn something new along the way." 🌟
 
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/384044876259393559)](https://discord.com)
 
 ![GitHub Snake](https://raw.githubusercontent.com/LightningReflex/LightningReflex/output/github-contribution-grid-snake-dark.svg)

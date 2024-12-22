@@ -10,14 +10,6 @@ I tend to keep most of my code private due to most my work being private or boug
 
 🌟 "Feel free to reach out! I'm always excited to collaborate, create cool projects, and learn something new along the way." 🌟
 
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/384044876259393559)](https://discord.com)
-
-![GitHub Snake](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnY0MHNndDJwZGQ4bmIxcnZ4aWY2cXNpZjRwZzB0aHVwOGlkMzd2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dkUtjuBEdICST5zG7p/giphy.webp)
-
-
-
 <!--
 **javaenthusiastt/javaenthusiastt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

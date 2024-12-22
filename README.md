@@ -1,14 +1,8 @@
-# About
-
+# I'm Sorryplspls! 👋
 
 I'm a developer from Norway with a passion for creating and learning new things. I specialize in Java (4+ years of experience), and I also work with SQL development, Python, and abit of HTML. My journey has been full of learning opportunities, collaborating with amazing people, and handling interesting challenges.
 
 I enjoy building software that is both functional and fun, while constantly expanding my knowledge in backend and full-stack development. Whether it's coding, debugging, or crying for solutions 😂, I always want improvement and efficiency. 
-
-## I'm currently working on ⚡
-- Building solutions with SQL and optimizing database queries.
-- Finishing my Clans Minecraft Plugin!
-
 
 I tend to keep most of my code private due to most my work being private or bought, but if you are interested in seeing source code for a feature made by me then contact me at 💬
 - Mail: contactsorrypls@gmail.com

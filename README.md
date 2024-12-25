@@ -10,7 +10,7 @@ I tend to keep most of my code private due to most my work being private or boug
 
 🌟 "Feel free to reach out! I'm always excited to collaborate, create cool projects, and learn something new along the way." 🌟
 
-#Experience:
+# Experience:
 
 - Developer at Minehut's #1 box server: discord.gg/echobox
 - Delivered database solutions for norwegian companies, focusing on data management & performance optimization

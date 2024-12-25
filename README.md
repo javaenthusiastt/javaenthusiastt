@@ -14,7 +14,10 @@ I tend to keep most of my code private due to most my work being private or boug
 
 - Developer at Minehut's #1 box server: discord.gg/echobox
 - Delivered database solutions for norwegian companies, focusing on data management & performance optimization
+- Passionate about coding for the fun of it, constantly re-learning languages to expand my comfortability
 - Currently looking for a development job!
+- Made hundreds of plugins: Developed a wide range of custom plugins while giving my all
+- Proudest Work: Designed and implemented a Replay Plugin using custom packets
   
 
 <!--

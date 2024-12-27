@@ -12,7 +12,7 @@ I tend to keep most of my code private due to most my work being private or boug
 
 # Experience:
 
-- Developer at Minehut's #1 box server: discord.gg/echobox
+- Previous Developer at Minehut's #1 box server: discord.gg/echobox
 - Delivered database solutions for norwegian companies, focusing on data management & performance optimization
 - Passionate about coding for the fun of it, constantly re-learning languages to expand my comfortability
 - Currently looking for a development job!

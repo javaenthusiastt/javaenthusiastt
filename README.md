@@ -6,7 +6,7 @@ I enjoy building software that is both functional and fun, while constantly expa
 
 I tend to keep most of my code private due to most my work being private or bought, but if you are interested in seeing source code for a feature made by me then contact me at 💬
 - Mail: contactsorrypls@gmail.com
-- Discord: l.x60
+- Discord: l.x70
 
 # Experience:
 

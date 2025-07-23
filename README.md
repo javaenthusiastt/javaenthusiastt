@@ -11,10 +11,10 @@ I tend to keep most of my code private due to most my work being private or boug
 # Experience:
 
 - Previous Developer at Minehut's #1 box server: discord.gg/echobox
+- Previous Developer at HiveMC - Java Edition
 - Delivered database solutions for norwegian companies, focusing on data management & performance optimization
-- Currently looking for a development job!
 - Made hundreds of plugins
-
+- Currently looking for a development job!
 <!--
 **javaenthusiastt/javaenthusiastt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 Hola! 👋
 
-I'm sorrypls and I create Software, APIs, Websites, Backend Systems & Frontend Designs.
+I'm sorrypls and I create software, APIs, backend systems, and plugins—with a slight touch of game development here and there.
 
 📫 Reach me: @Mail > contactsorrypls@gmail.com or at @Discord > l.x70
 

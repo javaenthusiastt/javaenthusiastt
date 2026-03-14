@@ -1,5 +1,5 @@
 Hola! 👋
-I'm sorrypls and I create software, APIs, backends, and minecraft plugins with a slight touch of game development here and there.
+I'm sorryplspls and I create software, websites, APIs, backends, and minecraft plugins with a slight touch of game development here and there.
 
 Mail -> contactsorrypls@gmail.com
 
